@@ -7,7 +7,9 @@ This is a **Movie Recommendation Web Application** built using **Python**, **Mac
 ## 🚀 Project Features
 
 - ✅ Recommends **Top 5 Similar Movies** using cosine similarity.
-- 🎥 Interactive **dropdown menu** to choose any movie and select Dark/Light Mode.
+- 🎥 Interactive **dropdown menu** to choose any movie and select Dark/Light Mode also.
+- 🔍 Search Bar with Autocomplete **interactive search bar** that suggests movie titles as users type.
+    
 - 🖼️ Displays **movie posters** fetched in real-time from TMDB.
 - ⚡ Fast, responsive, and **easy to use web interface**.
 - 🧠 Built with **Scikit-learn**, **Pandas**, and **Streamlit**.
@@ -46,4 +48,31 @@ This is a **Movie Recommendation Web Application** built using **Python**, **Mac
 
 ### 📍 Recommended Results For Dark Mode
 <img src="black_m.png" alt="Dark Mode" width="1200"/>
+
+## 🚀 Future Enhancements
+
+Here are some exciting ideas to improve this project further:
+
+
+- 🧠 **Improve Recommendation Algorithm:**  
+  Integrate more advanced models like TF-IDF, Word2Vec, or deep learning for better recommendations.
+
+- 🎞️ **Add Movie Trailers and Details:**  
+  Fetch and show trailers, genre, rating, release date, and overview using the TMDB API.
+
+- 🌐 **Multi-language Support:**  
+  Make the app available in multiple languages for broader accessibility.
+
+- 📱 **Mobile Responsiveness:**  
+  Improve UI for mobile devices using responsive design or build a mobile app version.
+
+- 👥 **User Login & History:**  
+  Allow users to sign in and view/save their recommendation history.
+
+- 📊 **Analytics Dashboard:**  
+  Add admin panel to track user behavior, most recommended movies, etc.
+
+- ☁️ **Deploy on Cloud:**  
+  Host the project on platforms like Vercel, Netlify (frontend), and Render or Heroku (backend).
+
 
