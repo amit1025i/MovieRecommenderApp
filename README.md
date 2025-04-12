@@ -39,11 +39,11 @@ This is a **Movie Recommendation Web Application** built using **Python**, **Mac
 <img src="white_h.png" alt="Light Mode" width="1200"/>
 
 ### 📍 Recommended Results For Light Mode
-<img src="white_m.png" alt="Light Mode" width="900"/>
+<img src="white_m.png" alt="Light Mode" width="1200"/>
 
 ### 🔻 HomePage For Dark Mode
-<img src="black_h.png" alt="Dark Mode" width="900"/>
+<img src="black_h.png" alt="Dark Mode" width="1200"/>
 
 ### 📍 Recommended Results For Dark Mode
-<img src="black_m.png" alt="Dark Mode" width="900"/>
+<img src="black_m.png" alt="Dark Mode" width="1200"/>
 
