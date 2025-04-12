@@ -36,14 +36,14 @@ This is a **Movie Recommendation Web Application** built using **Python**, **Mac
 ## 📸 Output / Demo
 
 ### 🔻 HomePage For Light Mode
-<img src="https://github.com/amit1025i/MovieRecommenderApp/raw/main/assets/white_h.png" alt="Light Mode" width="600"/>
+<img src="white_h.png" alt="Light Mode" width="1200"/>
 
 ### 📍 Recommended Results For Light Mode
-<img src="https://github.com/amit1025i/MovieRecommenderApp/raw/main/assets/white_m.png" alt="Light Mode" width="600"/>
+<img src="white_m.png" alt="Light Mode" width="900"/>
 
-### 🔻 HomePage For Dark Mode  
-![Dark Mode](https://github.com/amit1025i/MovieRecommenderApp/raw/main/assets/black_h.png)
-
+### 🔻 HomePage For Dark Mode
+<img src="black_h.png" alt="Dark Mode" width="900"/>
 
 ### 📍 Recommended Results For Dark Mode
-<img src="black_m.png" alt="Dark Mode" width="600"/>
+<img src="black_m.png" alt="Dark Mode" width="900"/>
+
