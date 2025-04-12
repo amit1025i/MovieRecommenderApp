@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Movie Recommender System
 
 This is a **Movie Recommendation Web Application** built using **Python**, **Machine Learning**, and **Streamlit**. It suggests similar movies based on the one selected by the user using **content-based filtering**. The app fetches real-time movie posters via the **TMDB API** to create a visually engaging experience.
@@ -46,3 +47,7 @@ This is a **Movie Recommendation Web Application** built using **Python**, **Mac
 
 ### 📍 Recommended Results For Dark Mode
 <img src="https://github.com/amit1025i/MovieRecommenderApp/raw/main/assets/black_m.png" alt="Dark Mode" width="600"/>
+=======
+# MovieRecommenderApp
+Movie Recommender App built with Streamlit and TMDB API. Select a movie and get 5 similar recommendations with posters. Includes light/dark mode toggle and a smooth user interface. Perfect for movie lovers seeking their next favorite film!
+>>>>>>> 4723b8531b81f45ead6b8032b74e7de8f4c53c50
