@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# PyCharm settings
+.idea/
+
+# Python packages
+*.egg-info/
+dist/
+build/
+
+# Environment variable or secret files (optional)
+.env
+*.env
+
+# Pickle files (if you don’t want to track them)
+*.pkl
+
+# Logs
+*.log
+ 
